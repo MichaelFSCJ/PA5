@@ -1,0 +1,4 @@
+"Type","Example"
+"Partial","cat(c('A', 'B', 'C'), c('D', 'E', 'F'), se = ' ', fi = 'output.txt', ap = TRUE)"
+"Positional","cat(c('A', 'B', 'C'), c('D', 'E', 'F'), 'output.txt', ' ', TRUE)"
+"Exact","cat(c('A', 'B', 'C'), c('D', 'E', 'F'), sep = ' ', file = 'output.txt', append = TRUE)"
